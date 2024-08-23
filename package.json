@@ -1,0 +1,13 @@
+{
+    "name": "be.elab.mydrawablecube",
+    "displayName": "A drawable cube for your games",
+    "version": "0.0.1",
+    "unity": "2019.2",
+    "keywords": ["3D"],
+    "description": "Just a drawable cube to use in your project.",
+    "dependencies": {},
+    "author" : {
+        "name":"Eloi Stree"
+    },    
+    "category": "Script"
+  }
